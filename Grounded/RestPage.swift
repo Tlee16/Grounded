@@ -88,7 +88,7 @@ struct RestPage: View {
                             }
                             
                             
-                            Spacer()
+                            
                             
                                    .onReceive(timer) { _ in
                             
