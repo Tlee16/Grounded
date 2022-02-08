@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5DA2318827B2A8A600F8BFD1 /* FirstPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA2318727B2A8A600F8BFD1 /* FirstPage.swift */; };
 		A779CAC727AAC5E0001E78FF /* GroundedApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A779CAC627AAC5E0001E78FF /* GroundedApp.swift */; };
 		A779CAC927AAC5E0001E78FF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A779CAC827AAC5E0001E78FF /* ContentView.swift */; };
 		A779CACB27AAC5E1001E78FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A779CACA27AAC5E1001E78FF /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5DA2318727B2A8A600F8BFD1 /* FirstPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPage.swift; sourceTree = "<group>"; };
 		A779CAC327AAC5E0001E78FF /* Grounded.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Grounded.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A779CAC627AAC5E0001E78FF /* GroundedApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroundedApp.swift; sourceTree = "<group>"; };
 		A779CAC827AAC5E0001E78FF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				A779CAC627AAC5E0001E78FF /* GroundedApp.swift */,
 				A779CAC827AAC5E0001E78FF /* ContentView.swift */,
+				5DA2318727B2A8A600F8BFD1 /* FirstPage.swift */,
 				A779CACA27AAC5E1001E78FF /* Assets.xcassets */,
 				A779CACC27AAC5E1001E78FF /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				A779CAC927AAC5E0001E78FF /* ContentView.swift in Sources */,
 				A779CAC727AAC5E0001E78FF /* GroundedApp.swift in Sources */,
+				5DA2318827B2A8A600F8BFD1 /* FirstPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
