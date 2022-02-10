@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		063E48D427B2CBC90048C7EC /* Affirmationsview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063E48D327B2CBC90048C7EC /* Affirmationsview.swift */; };
 		5DA2318827B2A8A600F8BFD1 /* FirstPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA2318727B2A8A600F8BFD1 /* FirstPage.swift */; };
 		5DA2318A27B2AB0900F8BFD1 /* RestPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA2318927B2AB0900F8BFD1 /* RestPage.swift */; };
 		5DA2318C27B2AB5A00F8BFD1 /* FeatureButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA2318B27B2AB5A00F8BFD1 /* FeatureButtonsView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		063E48D327B2CBC90048C7EC /* Affirmationsview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Affirmationsview.swift; sourceTree = "<group>"; };
 		5DA2318727B2A8A600F8BFD1 /* FirstPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPage.swift; sourceTree = "<group>"; };
 		5DA2318927B2AB0900F8BFD1 /* RestPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestPage.swift; sourceTree = "<group>"; };
 		5DA2318B27B2AB5A00F8BFD1 /* FeatureButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureButtonsView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 			children = (
 				A779CAC627AAC5E0001E78FF /* GroundedApp.swift */,
 				A779CAC827AAC5E0001E78FF /* ContentView.swift */,
+				063E48D327B2CBC90048C7EC /* Affirmationsview.swift */,
 				5DA2318927B2AB0900F8BFD1 /* RestPage.swift */,
 				5DA2318B27B2AB5A00F8BFD1 /* FeatureButtonsView.swift */,
 				5DA2318727B2A8A600F8BFD1 /* FirstPage.swift */,
@@ -149,6 +152,7 @@
 				5DA2318A27B2AB0900F8BFD1 /* RestPage.swift in Sources */,
 				5DA2318C27B2AB5A00F8BFD1 /* FeatureButtonsView.swift in Sources */,
 				A779CAC927AAC5E0001E78FF /* ContentView.swift in Sources */,
+				063E48D427B2CBC90048C7EC /* Affirmationsview.swift in Sources */,
 				A779CAC727AAC5E0001E78FF /* GroundedApp.swift in Sources */,
 				5DA2318827B2A8A600F8BFD1 /* FirstPage.swift in Sources */,
 			);
